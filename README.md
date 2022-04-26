@@ -1,4 +1,4 @@
-                                                                        Hi, I'M Mern Stack (Fullstack Javascript)
+#                                             Hi, I'M Mern Stack (Fullstack Javascript)
                                                                         
 # skill resolution for the future
  # language for now :
