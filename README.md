@@ -33,7 +33,7 @@
 
  
  ```
- ---------- Ridho Resolusi ----------
+ ---------- Ridho Resolution ----------
 ```
 - Create a finished application website ---------------------------------------------------------------> (x)
 - Under august 2022 must understand the MERN Stack Developer workflow --------------------------> (x)
@@ -41,5 +41,5 @@
 - Create a portfolio under July 2022 --------------------------------------------------------------> (x)
 - Must feel an income of 5 million/month in 2022 ------------------------------------------------------> (x)
 - Join a team and create at least 1 project -----------------------------------------------------------> (x)
-- Mendapatkan client dari salah satu perusahaan terbesar dimanapun itu --------------------------------> (x)
-Intinya di 2022 nanti saya akan menciptakan sebuah masa depan yang baru dan anti malas-malasan.
+- Get a client from one of the biggest companies anywhere --------------------------------> (x)
+The point is that in 2022, I will create a new and anti-lazy future.
