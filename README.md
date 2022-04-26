@@ -42,4 +42,4 @@
 - Must feel an income of 5 million/month in 2022 -----------------------------------------> (x)
 - Join a team and create at least 1 project ----------------------------------------------> (x)
 - Get a client from one of the biggest companies anywhere --------------------------------> (x)
-The point is that in 2022, I will create a new and anti-lazy future.
+###The point is that in 2022, I will create a new and anti-lazy future.
