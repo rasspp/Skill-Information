@@ -1,6 +1,6 @@
                                                                         Hi, I'M Mern Stack (Fullstack Javascript)
                                                                         
-# resolusi-skill-kedepan-nya
+# skill resolution for the future
  # language for now :
  - html
  - css
