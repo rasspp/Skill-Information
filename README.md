@@ -35,11 +35,10 @@
  ```
  ---------- Ridho Resolution ----------
 ```
-- Create a finished application website --------------------------------------------------> (x)
-- Under august 2022 must understand the MERN Stack Developer workflow --------------------> (x)
-- Get at least 1 client in 2022 ----------------------------------------------------------> (v)
-- Create a portfolio under July 2022 -----------------------------------------------------> (x)
-- Must feel an income of 5 million/month in 2022 -----------------------------------------> (x)
-- Join a team and create at least 1 project ----------------------------------------------> (x)
-- Get a client from one of the biggest companies anywhere --------------------------------> (x)
-###The point is that in 2022, I will create a new and anti-lazy future.
+- Create a finished application website ------------------------------------------------> (x)
+- Under august 2022 must understand the MERN Stack Developer workflow -------> (x)
+- Get at least 1 client in 2022 -----------------------------------------------------------> (v)
+- Create a portfolio under July 2022 ----------------------------------------------------> (x)
+- Must feel an income of 5 million/month in 2022 -------------------------------------> (x)
+- Join a team and create at least 1 project ---------------------------------------------> (x)
+- Get a client from one of the biggest companies anywhere --------------------------> (x)
